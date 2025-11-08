@@ -1,0 +1,14 @@
+subject,age,sex,eye,alignment_D,patching,op,refractive_error_r,log_mar_r,refractive_error_l,log_mar_l
+BM,35,F,R,Micro,no,no,OD +0.75 / -0.50 x 105,0.5,OS -4.00 / -0.50 x 120,0.06
+CG,25,M,RSOT,9,yes,no,OD +1.25 / -0.75 x 165,0.72,OS -3.25 / -1.00 x 180,0.02
+HB,48,F,RSOT,14,na,NA,na,0.56000000000000005,na,na
+II,24,M,R,Micro,no,no,OD +3.25 / -3.25 x 20,0.46,OS +0.50 / -0.50 x 170,0.08
+JH,21,F,RSOT,2,yes,yes,OD +2.75 /−0.50 × 140 ,0.62,OS +1.75DS,-0.06
+KG,21,F,LSOT,16,yes,yes,OD +5.25 / -0.75 x 110,0.06,OS +6.25 / -0.75 x 80,0.36
+KR,21,M,LXOT,8,yes,no,OD plano,0.14000000000000001,OS +3.50 / -1.75 x 20,0.57999999999999996
+MP,24,M,LXOT,8,yes,no,OD−1.50DS,−0.10,OS +4.00 /−1.50 × 180,1
+PB,67,M,LSOT,6,yes,no,OD +6.75 / −1.75 × 85,0.08,OS +6.75 /−1.75 × 80 ,0.38
+RA,22,F,LXOT,6,yes,yes,OD +0.50 / -0.25 x 110,0.06,OS +0.25DS,0.42
+RC,50,M,R,Micro,no,no,OD -0.50 / -0.25 x 170,0.34,OS -3.50 / -0.75 x 145,0.08
+SM,35,M,RSOT,8,yes,no,OD −0.50DS,1.02,OS−0.50 /−0.50 × 160 ,0
+SS,33,M,RSOT,2,yes,no,OD −0.75 / −0.75 × 103,0.98,OS−1.25DS,−0.10
