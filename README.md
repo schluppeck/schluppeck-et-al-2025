@@ -29,7 +29,7 @@ install.packages(pkgs)
 
 For example, the figures in the paper that summarise eccentricity as a function of cortical distance
 
-![](./images/cortex-figure.png)
+![example cortex figure](images/cortex-figure.png)
 
 - The code here makes uses an intermediate summary file `2025-03-fit-data-summary.csv` to do the final summary. Its columns are:
 
@@ -47,4 +47,4 @@ For example, the figures in the paper that summarise eccentricity as a function 
 
 
 - the `behaviour` sub-folder contains code and per-participant psychophysics data for making the figures visualising and quantifying the behavioural data.
-![behavioural data example](./images/matching-maps.png)
+![behavioural data example](images/matching-maps.png)
