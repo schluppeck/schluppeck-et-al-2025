@@ -47,4 +47,4 @@ For example, the figures in the paper that summarise eccentricity as a function 
 
 
 - the `behaviour` sub-folder contains code and per-participant psychophysics data for making the figures visualising and quantifying the behavioural data.
-![behavioural data exampls](./images/matching-maps.png)
+![behavioural data example](./images/matching-maps.png)
